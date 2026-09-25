@@ -1,5 +1,5 @@
 
-//var n = prompt("mot de pass")
+var n = prompt("mot de pass")
 //var str = "Godbe";
 //console.log(str.lastIndexOf(""));
 function compterCaracteres(chaine){
